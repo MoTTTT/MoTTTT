@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @MoTTTT
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+#  Martin Colley
 
-<!---
-MoTTTT/MoTTTT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## whoAmI
+Hi. I'm Martin Colley, temporarily retired Electronics Engineer.
+
+## Current Interests
+I'm interested in:
+- [ ] Finding a job in the UK
+- [ ] Cleaning up my GitHub repos
+- [ ] Getting old personal code from various archives and machines into GitHub
+- [ ] Publishing a book my father wrote
+- [ ] Capturing and sorting years worth of musings
+
+
