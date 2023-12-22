@@ -10,7 +10,7 @@ Adam has graduated as an Electronics Engineer, and will be doing his Masters aft
 
 ## Interests
 I'm interested in:
-- Electronics, which interest started before studying Engineering as a high school hobyist.
+- Electronics, which interest started before studying engineering, as a high school hobyist.
 - Open Source products, which I have used in a personal capacity since 1995, and in industry for many years.
 - DevSecOps, where in my capacity as an IT Specialist, I have driven a program to implement on-premise Open Source DevSecOps tooling.  
 - Publishing content written by my family. My parents both wrote, as does my wife. I also dabble.
