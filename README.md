@@ -12,7 +12,7 @@ Adam has graduated as an Electronics Engineer, and will be doing his Masters aft
 
 - Electronics, which interest started before studying engineering, as a high school hobyist.
 - Open Source products, which I have used in a personal capacity since 1995, and in industry for many years.
-- DevSecOps, where in my capacity as an IT Specialist, I drove a program to implement on-premise Open Source DevSecOps tooling. 
+- DevSecOps, where in my capacity as an IT Specialist, implemented on-premise Open Source DevSecOps tooling. 
 - Publishing content written by my family. My parents both wrote, as does my wife. I also dabble.
 - Software, which I encountered in my youth and have been writing ever since.
 - Languages, which I see as related to my interest in software. I am currently learning Spanish using Duolingo.
